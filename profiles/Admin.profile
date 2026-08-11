@@ -20,6 +20,10 @@
         <enabled>false</enabled>
         <name>ManageUsers</name>
     </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageDataCategories</name>
+    </userPermissions>
     <objectPermissions>
         <object>Account</object>
         <allowRead>true</allowRead>
@@ -49,7 +53,7 @@
     <loginIpRanges>
         <startAddress>10.0.0.0</startAddress>
         <endAddress>10.0.0.255</endAddress>
-        <description>Test range</description>
+        <description>Test range v2</description>
     </loginIpRanges>
     <userLicense>Salesforce</userLicense>
 </Profile>
