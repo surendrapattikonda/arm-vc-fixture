@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flowDefinitions>
+        <flows/>
+        <fullName>sfdc_default_ReportExport_Protection_Flow</fullName>
+    </flowDefinitions>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Definition_sfdcSESv60</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Added by</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Is Outcome</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Result</name>
+            </columns>
+            <label></label>
+            <name>Program Task Definitions</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Definition_sfdcSESv61</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Added by</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Is Outcome</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Result</name>
+            </columns>
+            <label></label>
+            <name>Program Task Definitions</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Progress_sfdcSESv60</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Completed On Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Completion Rate</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Completion Status</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days in Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Email</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Outcome Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Total Days</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>User</name>
+            </columns>
+            <label></label>
+            <name>Program Progress</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Progress_sfdcSESv61</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Completed On Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Completion Rate</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Completion Status</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days in Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Email</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Outcome Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Total Days</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>User</name>
+            </columns>
+            <label></label>
+            <name>Program Progress</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Task_Progress_sfdcSESv60</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Completion Rate</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Created By</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days in Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days to Complete</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Email</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Is Outcome</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Milestone Target</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Minimum Sample Size</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Status</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task Progress ID</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Section</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Section Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Task Category</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>User</name>
+            </columns>
+            <label></label>
+            <name>Program Task Progress</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>Program_Task_Progress_sfdcSESv61</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Completion Rate</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Created By</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days in Progress</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Days to Complete</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Email</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Is Outcome</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Manager</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Milestone Target</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Minimum Sample Size</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Status</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Task Progress ID</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Program Type</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Section</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Section Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Target Day</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Task Category</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>User</name>
+            </columns>
+            <label></label>
+            <name>Program Task Progress</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>flow_orchestration_log_ootb_crt_two_four_eight</name>
+        <sections>
+            <label></label>
+            <name>Orchestration Run Log</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>flow_orchestration_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label></label>
+            <name>Orchestration Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>flow_orchestration_stage_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label></label>
+            <name>Orchestration Stage Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>flow_orchestration_step_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>flow_orchestration_work_item_ootb_crt_two_four_eight</name>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Orchestration Step Run: Label</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Orchestration Step Run: Name</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Orchestration Step Run: Status</name>
+            </columns>
+            <label></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+        <sections>
+            <columns>
+                <label></label>
+                <name>Assigned Group or Queue</name>
+            </columns>
+            <columns>
+                <label></label>
+                <name>Assigned User</name>
+            </columns>
+            <label></label>
+            <name>Orchestration Work Items</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description></description>
+        <label></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>
