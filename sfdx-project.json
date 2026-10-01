@@ -1,9 +1,17 @@
 {
-  "packageDirectories": [
-    { "path": "force-app", "default": true }
-  ],
-  "name": "arm-vc-fixture",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "60.0"
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true,
+    "package" : "armit",
+    "scopeProfiles" : "false",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "60.0",
+  "packageAliases" : {
+    "armit" : "0HogK0000004rtlSAA"
+  },
+  "name" : "arm-vc-fixture"
 }
