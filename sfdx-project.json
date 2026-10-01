@@ -1,0 +1,9 @@
+{
+  "packageDirectories": [
+    { "path": "force-app", "default": true }
+  ],
+  "name": "arm-vc-fixture",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "60.0"
+}
