@@ -2,7 +2,7 @@
 <GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <valueTranslation>
         <masterLabel>North</masterLabel>
-        <translation>Nord</translation>
+        <translation>Nord (FR)</translation>
     </valueTranslation>
     <valueTranslation>
         <masterLabel>South</masterLabel>
